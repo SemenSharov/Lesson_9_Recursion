@@ -1,0 +1,15 @@
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\bin\Debug\net7.0\Task_68.exe
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\bin\Debug\net7.0\Task_68.deps.json
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\bin\Debug\net7.0\Task_68.runtimeconfig.json
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\bin\Debug\net7.0\Task_68.dll
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\bin\Debug\net7.0\Task_68.pdb
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.csproj.AssemblyReference.cache
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.AssemblyInfoInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.AssemblyInfo.cs
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.dll
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\refint\Task_68.dll
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.pdb
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\Task_68.genruntimeconfig.cache
+C:\Моя папка\Обучение програмированию\Lesson_9_Recursion\Task_68\obj\Debug\net7.0\ref\Task_68.dll
